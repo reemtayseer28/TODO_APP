@@ -61,4 +61,4 @@ describe("Todo API Automated Tests", () => {
     expect(res.body.message).toBe("Todo deleted");
   });
 
-})
+});
